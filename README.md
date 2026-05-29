@@ -132,3 +132,5 @@ distance := ps.CompareNetworks(graph1, graph2) // Wasserstein-2 distance
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
